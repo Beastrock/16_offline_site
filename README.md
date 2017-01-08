@@ -1,6 +1,8 @@
 # New Site Template
+This repository is a basic front-end [bootstrap](https://getbootstrap.com/) site template called [Jumbotron](https://getbootstrap.com/examples/jumbotron/) which is capable to work offline. 
 
-[TODO. There will be project description]
+## Getting started
+`git clone https://github.com/Beastrock/16_offline_site.git`
 
 # Project Goals
 
